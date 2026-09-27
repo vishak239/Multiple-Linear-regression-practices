@@ -42,6 +42,10 @@ jupyter notebook "multiple linear regression.ipynb"
 - `train_test_split` and `LinearRegression` from scikit-learn
 - Plotting predictions with Matplotlib
 
+## Status
+
+Complete as a learning exercise.
+
 ## Author
 
 **V Vishak** · [github.com/vishak239](https://github.com/vishak239)
